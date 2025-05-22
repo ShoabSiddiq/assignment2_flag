@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
     },
     {
       'name': 'Pakistan',
-      'description': 'A South Asian country with a diverse culture and history.',
+      'description': 'A South Asian country with a diverse culture an.',
       'flag': 'assets/images/Flag_of_Saudi_Arabia_Flat_Square-512x512.png'
     },
     {
@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
     {
       'name': 'Iran',
       'description':
-      'Known for its ancient Persian civilization and contributions to art and science.',
+      'Known for its ancient Persian civilization.',
       'flag': 'assets/images/Flag_of_Indonesia_Flat_Square-512x512.png'
     },
   ];
